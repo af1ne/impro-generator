@@ -19,6 +19,7 @@ const styles = theme => ({
 });
 
 class SwitchListSecondary extends React.Component {
+  
   state = {
     checked: ['theme'],
   };
